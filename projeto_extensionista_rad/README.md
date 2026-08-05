@@ -32,7 +32,7 @@ O núcleo do sistema foi construído em Python, focando na criação de uma API 
 
 Se você deseja explorar ou contribuir com o código, consulte a documentação técnica específica para cada módulo:
 
-*   [Documentação Técnica do Backend](./README_BACKEND.md)
+*   [Documentação Técnica do Backend](./expedicao-espacial-back/README.md)
 
 ## Como Executar
 
