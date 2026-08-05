@@ -34,6 +34,3 @@ Se você deseja explorar ou contribuir com o código, consulte a documentação 
 
 *   [Documentação Técnica do Backend](./expedicao-espacial-back/README.md)
 
-## Como Executar
-
-(Adicione aqui as instruções gerais para rodar o projeto, como `npm install`, `python app.py`, etc., caso aplicável).
